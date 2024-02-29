@@ -1,0 +1,37 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.authmart.online	TRUE	/dat-hang-thanh-cong	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.authmart.online	TRUE	/dat-hang-thanh-cong	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.authmart.online	TRUE	/dat-hang-thanh-cong	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.authmart.online	TRUE	/dat-hang-thanh-cong	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.authmart.online	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.authmart.online	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.authmart.online	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.authmart.online	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.authmart.online	TRUE	/schema.org	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.authmart.online	TRUE	/schema.org	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.authmart.online	TRUE	/schema.org	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.authmart.online	TRUE	/schema.org	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.authmart.online	TRUE	/may-hoc	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.authmart.online	TRUE	/may-hoc	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.authmart.online	TRUE	/may-hoc	FALSE	1999999999	LADI_PAGE_VIEW	2
+www.authmart.online	TRUE	/may-hoc	FALSE	1999999999	LADI_PAGE_VIEW_PATH	2
+www.authmart.online	TRUE	/signals	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.authmart.online	TRUE	/signals	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.authmart.online	TRUE	/signals	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.authmart.online	TRUE	/signals	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.authmart.online	TRUE	/POST	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.authmart.online	TRUE	/POST	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.authmart.online	TRUE	/POST	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.authmart.online	TRUE	/POST	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.authmart.online	TRUE	/a	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.authmart.online	TRUE	/a	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.authmart.online	TRUE	/a	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.authmart.online	TRUE	/a	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.authmart.online	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	d04927bf-cc39-495b-6021-f9e5f0c443ff
+tiktok.com	TRUE	/	FALSE	1999999999	_ttp	2d2DSI5GUMJ6SiCtPXHSDVzb85W
+analytics.tiktok.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.authmart.online	TRUE	/	FALSE	1999999999	LADI_DNS_CHECK	2024-02-29 09:01:20.995983038 +0000 UTC m=+5450760.325569517"
+www.authmart.online	TRUE	/	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.authmart.online	TRUE	/	FALSE	1999999999	LADI_PAGE_VIEW	1
+
